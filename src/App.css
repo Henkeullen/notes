@@ -1,38 +1,7 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas&display=swap');
+body {
+  background-image: url('https://hallmark.brightspotcdn.com/dims4/default/8ca1696/2147483647/strip/true/crop/1920x1008+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fhallmark-channel-brightspot.s3.amazonaws.com%2F8a%2F2a%2F335dbdbd2067a0b00e365ed06508%2Fwinter-background-3.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Mountains of Christmas', cursive;
 }
