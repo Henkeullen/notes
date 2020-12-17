@@ -53,6 +53,7 @@ const styles = {
     backgroundColor: 'darkred',
     textAlign: 'center',
     fontSize: '30px',
+		color: 'white',
   },
 }
 export default App
