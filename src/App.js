@@ -30,7 +30,7 @@ function App() {
   return (
     <Container>
       <Jumbotron fluid style={styles.jumbotronStyle}>
-        <h1>2020 Önskelista</h1>
+        <h1>2020 ÖNSKELISTA</h1>
         <p>Till tomten @ Nordpolen</p>
       </Jumbotron>
       <Row>
@@ -53,7 +53,7 @@ const styles = {
     backgroundColor: 'darkred',
     textAlign: 'center',
     fontSize: '30px',
-		color: 'white',
+    color: 'white',
   },
 }
 export default App
